@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17985" appversion="6.1.9" start="node9">
+  <panorama id="node9">
+    <input levelingpitch="0" width="1280" height="720" levelbias="0.400" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" cylinder="1" levelbiashidpi="1.000" flat="1" leveltilesize="510" levelingroll="0">
+      <level width="1280" height="720" predecode="0" preload="0"/>
+      <level width="640" height="360" predecode="0" preload="0"/>
+      <level width="320" height="180" predecode="1" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" scaletofit="1" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata customnodeid="" datetime="" latitude="" title="" copyright="" author="" heading="0" comment="" tags="Downloads" nodeid="node9" longitude="" description="" info="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" width="180" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" border="1" textalpha="1" borderalpha="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-37.53" title="ENTER" url="{node8}" distance3D="285.751" customimagewidth="50" customimageheight="50" customimage="media/red-circle-1155276042606ekqvli9k.png" pan="24.46" description="" use3D="0" id="Point01" skinid="ht_node" target="" fov="10"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="1" zoomout="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomspeed="2" blendcolor="0x000000" type="crossdissolve" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" invertwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingpitch="-4.47829" width="3472" height="3472" levelbias="0.400" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" levelingroll="-2.6219">
+      <level width="3472" height="3472" predecode="0" preload="0"/>
+      <level width="1736" height="1736" predecode="0" preload="0"/>
+      <level width="868" height="868" predecode="0" preload="0"/>
+      <level width="434" height="434" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" scaletofit="1" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata customnodeid="" datetime="" latitude="" title="" copyright="" author="" heading="0" comment="" tags="" nodeid="node8" longitude="" description="" info="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" width="180" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" border="1" textalpha="1" borderalpha="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-10.13" title="" url="{node4}" distance3D="171.451" customimagewidth="30" customimageheight="30" customimage="media/logo.png" pan="-1.68" description="" use3D="0" id="Point01" skinid="ht_node" target="" fov="10"/>
+      <hotspot tilt="-3.16" title="Jasmine Patel" url="images/Jasmine Patel.png" pan="-66.03" description="" id="Point20" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.41" title="Isha Malani" url="images/Isha Malani.png" pan="-69.72" description="" id="Point19" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.28" title="Dev Ramani" url="images/Dev Ramani.png" pan="-72.55" description="" id="Point18" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.13" title="Ansh Babaria" url="images/Ansh Babria.png" pan="-76.04" description="" id="Point17" skinid="ht_image" target=""/>
+      <hotspot tilt="-1.69" title="Dev Rakholia" url="images/Dev Rakholia.png" pan="-79.54" description="" id="Point16" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.37" title="Khushi Babaria" url="images/Khushi Babaria.png" pan="-84.06" description="" id="Point15" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.4" title="Aanya" url="images/Aanya.png" pan="-87.94" description="" id="Point14" skinid="ht_image" target=""/>
+      <hotspot tilt="-1.41" title="Krisha Lakhani" url="images/Krisha Lakhani.png" pan="-92" description="" id="Point13" skinid="ht_image" target=""/>
+      <hotspot tilt="-1.61" title="Ragi Diyora" url="images/Ragi Diyora.png" pan="-97.14" description="" id="Point12" skinid="ht_image" target=""/>
+      <hotspot tilt="-3.36" title="Rhea Patel" url="images/Rhea Patel.png" pan="-301.72" description="" id="Point48" skinid="ht_image" target=""/>
+      <hotspot tilt="-3.81" title="Suhani Patel" url="images/Suhani Patel.png" pan="-295.09" description="" id="Point47" skinid="ht_image" target=""/>
+      <hotspot tilt="-3.24" title="Yash Patel" url="images/Yash Patel.png" pan="-287.58" description="" id="Point46" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.81" title="Aanya" url="images/Aanya2.png" pan="-281.3" description="" id="Point45" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.48" title="Aarav Dhameliya" url="images/Aryan Dhameliya.png" pan="-274.83" description="" id="Point44" skinid="ht_image" target=""/>
+      <hotspot tilt="-1.99" title="Aarav Dhameliya" url="images/Aarav Dhameliya.png" pan="-269.49" description="" id="Point43" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.1" title="Kunj Paghdal" url="images/Kunj Paghdal.png" pan="-264.8" description="" id="Point42" skinid="ht_image" target=""/>
+      <hotspot tilt="-3.59" title="EXIT" url="{node9}" distance3D="171.451" customimagewidth="30" customimageheight="30" customimage="media/red-circle-1155276042606ekqvli9k.png" pan="-230.61" description="" use3D="0" id="Point02" skinid="ht_node" target="" fov="10"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="1" zoomout="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomspeed="2" blendcolor="0x000000" type="crossdissolve" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" invertwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="-5.96271" width="3455" height="3455" levelbias="0.400" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" levelingroll="-0.856168">
+      <level width="3455" height="3455" predecode="0" preload="0"/>
+      <level width="1727" height="1727" predecode="0" preload="0"/>
+      <level width="863" height="863" predecode="0" preload="0"/>
+      <level width="431" height="431" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-55.298" fovpixel="2" pan="-180"/>
+      <max tilt="55.298" fovstereographic="270" pan="180" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata customnodeid="" datetime="" latitude="" title="" copyright="" author="" heading="0" comment="" tags="Desktop" nodeid="node4" longitude="" description="" info="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" width="180" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" border="1" textalpha="1" borderalpha="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-9.79" title="" url="{node7}" distance3D="171.451" customimagewidth="30" customimageheight="30" customimage="media/logo.png" pan="-359.61" description="" use3D="0" id="Point01" skinid="ht_node" target="" fov="10"/>
+      <hotspot tilt="-7.29" title="" url="{node8}" distance3D="171.451" customimagewidth="30" customimageheight="30" customimage="media/logo.png" pan="-180.51" description="" use3D="0" id="Point02" skinid="ht_node" target="" fov="10"/>
+      <hotspot tilt="0.99" title="Vraj Sangani" url="images/1.png" pan="-162.64" description="" id="Point04" skinid="ht_image" target=""/>
+      <hotspot tilt="0.12" title="Maharth Kakadiya" url="images/Maharth Kakadiya.png" pan="-195.42" description="" id="Point02" skinid="ht_image" target=""/>
+      <hotspot tilt="0.08" title="Moksh Lakhani" url="images/Moksh Lakhani.png" pan="-199.5" description="" id="Point03" skinid="ht_image" target=""/>
+      <hotspot tilt="-3.57628e-08" title="Dev Babaria" url="images/Dev Babaria.png" pan="-204.43" description="" id="Point04" skinid="ht_image" target=""/>
+      <hotspot tilt="-0.5" title="Dhruv Savaliya" url="images/Dhruv Savaliya.png" pan="-208.64" description="" id="Point05" skinid="ht_image" target=""/>
+      <hotspot tilt="-0.21" title="Pavitra Patel" url="images/Pavitra Patel.png" pan="-213.42" description="" id="Point06" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.46" title="Riya Satani" url="images/Riya Satani.png" pan="-60.85" description="" id="Point34" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.59" title="Avinash Shiralkar" url="images/Avinash Shiralkar.png" pan="-63.3" description="" id="Point33" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.86" title="Priyanshi Padsala" url="images/Priyanshi.png" pan="-66.58" description="" id="Point32" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.22" title="Aryan Babaria" url="images/Aryan Babaria.png" pan="-70.35" description="" id="Point31" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.32" title="Arunesh Eswaran" url="images/Arunesh Eswaran.png" pan="-74.01" description="" id="Point30" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.28" title="Aanya Malani" url="images/Aanya Malani.png" pan="-78.62" description="" id="Point29" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.05" title="Hriday" url="images/Hriday.png" pan="-82.94" description="" id="Point28" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.01" title="Ansh Shekhda" url="images/Ansh Shekhda.png" pan="-87.3" description="" id="Point27" skinid="ht_image" target=""/>
+      <hotspot tilt="-1.6" title="Isha Viradia" url="images/Isha Viradia.png" pan="-92.37" description="" id="Point26" skinid="ht_image" target=""/>
+      <hotspot tilt="-1.17" title="Henna Gohil" url="images/Henna Gohil.png" pan="-97.9" description="" id="Point25" skinid="ht_image" target=""/>
+      <hotspot tilt="-1.01" title="Archi Vagdiya" url="images/Archi Vagdiya.png" pan="-102.83" description="" id="Point24" skinid="ht_image" target=""/>
+      <hotspot tilt="-0.18" title="Krupa Dave" url="images/Krupa Dave.png" pan="-106.86" description="" id="Point23" skinid="ht_image" target=""/>
+      <hotspot tilt="-0.09" title="Krishna Gondaliya" url="images/Krishna Gondaliya.png" pan="-110.67" description="" id="Point22" skinid="ht_image" target=""/>
+      <hotspot tilt="-0.08" title="Tanish Dave" url="images/Tanish Dave.png" pan="-114.69" description="" id="Point21" skinid="ht_image" target=""/>
+      <hotspot tilt="0.32" title="Jasmine Patel" url="images/Jasmine Patel.png" pan="-119.28" description="" id="Point20" skinid="ht_image" target=""/>
+      <hotspot tilt="0.78" title="Sahaj Satani" url="images/Sahaj Satani.png" pan="-158.11" description="" id="Point08" skinid="ht_image" target=""/>
+      <hotspot tilt="0.84" title="Janki Dobariya" url="images/Janki Dobariya.png" pan="-152.95" description="" id="Point09" skinid="ht_image" target=""/>
+      <hotspot tilt="0.53" title="Shaurya Bhungani" url="images/Shaurya Bhungani.png" pan="-147.95" description="" id="Point10" skinid="ht_image" target=""/>
+      <hotspot tilt="1.12" title="Vraj Paghdal" url="images/Vraj Paghdal.png" pan="-143.15" description="" id="Point11" skinid="ht_image" target=""/>
+      <hotspot tilt="-3.17" title="Meet Ramani" url="images/Meet Ramani.png" pan="-290.57" description="" id="Point54" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.9" title="Poshika Eswaran" url="images/Poshika Eswaran.png" pan="-286.79" description="" id="Point53" skinid="ht_image" target=""/>
+      <hotspot tilt="-3.69" title="Rutvi Kunadia" url="images/Rutvi Kunadia.png" pan="-267.86" description="" id="Point52" skinid="ht_image" target=""/>
+      <hotspot tilt="-1.46" title="Dharma Bambhroliya" url="images/Dharma 1.png" pan="-262.56" description="" id="Point51" skinid="ht_image" target=""/>
+      <hotspot tilt="-1.42" title="Kesha Patel" url="images/Kesha Patel.png" pan="-256.52" description="" id="Point50" skinid="ht_image" target=""/>
+      <hotspot tilt="-1.6" title="Anand Satani" url="images/Anand Satani.png" pan="-250.6" description="" id="Point49" skinid="ht_image" target=""/>
+      <hotspot tilt="-3.49" title="Niti Ramani" url="images/Niti Ramani.png" pan="-272.91" description="" id="Point07" skinid="ht_image" target=""/>
+      <hotspot tilt="-3.12" title="Kushal Sheth" url="images/Kushal Sheth.png" pan="-277.96" description="" id="Point12" skinid="ht_image" target=""/>
+      <hotspot tilt="-3.16" title="Jay Sheth" url="images/Jay Sheth.png" pan="-282.68" description="" id="Point13" skinid="ht_image" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="1" zoomout="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomspeed="2" blendcolor="0x000000" type="crossdissolve" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" invertwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="0.661712" width="3471" height="3471" levelbias="0.400" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" levelingroll="1.68734">
+      <level width="3471" height="3471" predecode="0" preload="0"/>
+      <level width="1735" height="1735" predecode="0" preload="0"/>
+      <level width="867" height="867" predecode="0" preload="0"/>
+      <level width="433" height="433" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" scaletofit="1" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata customnodeid="" datetime="8/11/20 11:26 AM" latitude="" title="" copyright="" author="" heading="0" comment="" tags="Desktop" nodeid="node7" longitude="" description="" info="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" width="180" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" border="1" textalpha="1" borderalpha="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-6.64" title="" url="{node4}" distance3D="171.451" customimagewidth="30" customimageheight="30" customimage="media/logo.png" pan="-178.91" description="" use3D="0" id="Point01" skinid="ht_node" target="-179.5/3.7/70.0" fov="10"/>
+      <hotspot tilt="-3.3" title="Bhakti Satani" url="images/Bhakti Satani.png" pan="-116.74" description="" id="Point35" skinid="ht_image" target=""/>
+      <hotspot tilt="-3.43" title="Sanika Patel" url="images/Sanika Patel.png" pan="-110.39" description="" id="Point36" skinid="ht_image" target=""/>
+      <hotspot tilt="-3.22" title="Dharma Bambhroliya" url="images/Dharma 4.png" pan="-104.67" description="" id="Point37" skinid="ht_image" target=""/>
+      <hotspot tilt="-3.13" title="Soham Gajera" url="images/Soham Gajera.png" pan="-100.03" description="" id="Point38" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.74" title="Dharma Bambhroliya" url="images/Dharma 3.png" pan="-95.83" description="" id="Point39" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.59" title="Jiya Kachhdiya" url="images/Jiya Kachhdiya.png" pan="-92.27" description="" id="Point40" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.13" title="Tirth Gajjar" url="images/Tirth Gajjar.png" pan="-87.89" description="" id="Point41" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.93" title="Dharma Bambhroliya" url="images/Dharma 2.png" pan="-232.72" description="" id="Point55" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.89" title="Neeti Sojitra" url="images/Neeti Sojitra.png" pan="-236.91" description="" id="Point56" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.85" title="Palak Malani" url="images/Palak Malani.png" pan="-242.83" description="" id="Point57" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.2" title="Vriti Diora" url="images/Vriti Diora.png" pan="-250.06" description="" id="Point58" skinid="ht_image" target=""/>
+      <hotspot tilt="-2.3" title="Priyal Patel" url="images/Priyal Patel.png" pan="-256.89" description="" id="Point59" skinid="ht_image" target=""/>
+      <hotspot tilt="-1.78" title="Radhika Kakadiya" url="images/Radhika Kakadiya.png" pan="-263.32" description="" id="Point60" skinid="ht_image" target=""/>
+      <hotspot tilt="-1.83" title="Yashica Ayer" url="images/Yashica Ayer.png" pan="-268.88" description="" id="Point61" skinid="ht_image" target=""/>
+      <hotspot tilt="0.11" title="Enter Hallway" url="{node10}" distance3D="171.451" customimagewidth="30" customimageheight="30" customimage="media/red-circle-1155276042606ekqvli9k.png" pan="-286.56" description="" use3D="0" id="Point02" skinid="ht_node" target="" fov="10"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="1" zoomout="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomspeed="2" blendcolor="0x000000" type="crossdissolve" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" invertwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingpitch="-12.4198" width="4299" height="4299" levelbias="0.400" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" levelingroll="-2.05276">
+      <level width="4299" height="4299" predecode="0" preload="0"/>
+      <level width="2149" height="2149" predecode="0" preload="0"/>
+      <level width="1074" height="1074" predecode="0" preload="0"/>
+      <level width="537" height="537" predecode="0" preload="0"/>
+      <level width="268" height="268" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" scaletofit="1" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata customnodeid="" datetime="8/11/20 12:05 PM" latitude="" title="" copyright="" author="" heading="0" comment="" tags="" nodeid="node10" longitude="" description="" info="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" width="180" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" border="1" textalpha="1" borderalpha="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-9.83" title="Enter Gallery" url="{node4}" distance3D="171.451" customimagewidth="30" customimageheight="30" customimage="media/red-circle-1155276042606ekqvli9k.png" pan="-55.43" description="" use3D="0" id="Point01" skinid="ht_node" target="" fov="10"/>
+      <hotspot tilt="-3.04" title="" url="{node11}" distance3D="171.451" customimagewidth="30" customimageheight="30" customimage="media/logo.png" pan="-188" description="" use3D="0" id="Point02" skinid="ht_node" target="" fov="10"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="1" zoomout="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomspeed="2" blendcolor="0x000000" type="crossdissolve" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" invertwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingpitch="0" width="3499" height="3499" levelbias="0.400" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0">
+      <level width="3499" height="3499" predecode="0" preload="0"/>
+      <level width="1749" height="1749" predecode="0" preload="0"/>
+      <level width="874" height="874" predecode="0" preload="0"/>
+      <level width="437" height="437" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" scaletofit="1" pan="360" fovfisheye="360" fov="120"/>
+    </view>
+    <userdata customnodeid="" datetime="7/16/20 7:08 PM" latitude="" title="" copyright="" author="" heading="0" comment="" tags="" nodeid="node11" longitude="" description="" info="" source=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label textcolor="0x000000" width="180" height="20" background="1" wordwrap="1" enabled="1" bordercolor="0x000000" backgroundalpha="1" backgroundcolor="0xffffff" border="1" textalpha="1" borderalpha="1" borderradius="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1"/>
+      <hotspot tilt="-8.63" title="" url="{node10}" distance3D="171.451" customimagewidth="30" customimageheight="30" customimage="media/logo.png" pan="-2.41" description="" use3D="0" id="Point01" skinid="ht_node" target="" fov="10"/>
+      <hotspot tilt="-3.39" title="EXIT HERE" url="{node9}" distance3D="228.601" customimagewidth="40" customimageheight="40" customimage="media/red-circle-1155276042606ekqvli9k.png" pan="-200.12" description="" use3D="0" id="Point02" skinid="ht_node" target="" fov="10"/>
+      <hotspot tilt="-4.31" title="Enter Gallery" url="{node8}" distance3D="171.451" customimagewidth="30" customimageheight="30" customimage="media/red-circle-1155276042606ekqvli9k.png" pan="-101.37" description="" use3D="0" id="Point03" skinid="ht_node" target="" fov="10"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="1" zoomout="0" zoomin="0" zoomoutpause="1" blendtime="1" zoomspeed="2" blendcolor="0x000000" type="crossdissolve" softedge="0"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" speedwheel="1" rubberband="0" contextprojections="0" contextfullscreen="1" invertwheel="0" sensitivity="8" lockedmouse="0" lockedkeyboard="0" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata customnodeid="" datetime="" latitude="" title="" copyright="" author="" heading="0" comment="" tags="" nodeid="master" longitude="" description="" info="" source=""/>
+  </masternode>
+</tour>
